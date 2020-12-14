@@ -1,0 +1,46 @@
+<section class=" py-16 w-full products-container">
+  <div class="container mx-auto flex items-center justify-between ">
+    <div class=" mx-auto ">
+      <h6 class="text-6xl mx-auto left-prod">
+        <em>
+          All Products
+        </em>
+      </h6>
+    </div>
+  </div>
+</section>
+<section class="menu products-cont container mx-auto py-8">
+  <br />
+  <br />
+  <div class="grid grid-cols-4 col-gap-12 row-gap-16 prod-card">
+    <% foods.forEach(function(food) { %>
+    <div class=" w-64">
+      <img class="h-40 mb-4 mx-auto" src="/images/<%= food.image %>" alt="" />
+      <div class="text-center">
+        <h2 class="mb-4 text-2xl">
+          <%= food.name %>
+        </h2>
+        <span class="size py-1 px-4 round-full uppercase text-xs">
+          offers- <%= food.offer %>
+        </span>
+        <span class="size py-1 px-4 round-full uppercase text-xs">
+          Reviews (8/10)
+        </span>
+      </div>
+      <div class="flex items-center justify-around mt-6">
+        <span class="font-bond text-lg">₹<%= food.price %> </span>
+        <button
+          data-food="<%= JSON.stringify(food) %>"
+          class="add-to-cart addCart py-1 px-6 rounded-full flex items-center font-bond"
+        >
+          <span> + </span>
+          <span class=" ml-4"> Add </span>
+        </button>
+      </div>
+    </div>
+    <% }) %>
+  </div>
+</section>
+<div>
+  <img src="/images/relax-5302088.png" alt="" />
+</div>

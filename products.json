@@ -1,0 +1,209 @@
+[
+  {
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "flat-24 ",
+    "image": "tomato-304316.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "onion",
+    "image": "onion-576097.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "potato",
+    "image": "potatoes-1585060.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "pumpkin ",
+    "image": "onion-576097.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "red pepper",
+    "image": "onion-576097.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "green pepper",
+    "image": "onion-576097.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "eggplant",
+    "image": "eggplant-4402962_1920.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "cauliflower ",
+    "image": "veg3.jpg",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea1"
+    },
+    "name": "Bottle Gourd ",
+    "image": "Bottle Gourd .png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea2"
+    },
+    "name": "green bean ",
+    "image": "green bean.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea0"
+    },
+    "name": "Ladies Finger/Bhendi",
+    "image": " Ladies Finger/Bhendi.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee671a27a66807cf2bea1"
+    },
+    "name": "Bitter Gourd/Karli ",
+    "image": "Bitter Gourd/Karli.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee677a27a66807cf2bea14"
+    },
+    "name": "Apple - Red Delicious/Washington, Regular",
+    "image": " Apple.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee617a27a66807cf2bea15"
+    },
+    "name": "Pear - Green, Imported",
+    "image": "pear.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee717a27a66807cf2bea16"
+    },
+    "name": "Papaya - Large",
+    "image": "Papaya.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a7a66807cf2bea17"
+    },
+    "name": "Kiwi ",
+    "image": "Kiwi.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a6807cf2bea18"
+    },
+    "name": "Blueberry - Imported",
+    "image": "Blueberry.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a6687cf2bea19"
+    },
+    "name": "Plum - Indian",
+    "image": "Plum.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee617a27a66807cf2bea20"
+    },
+    "name": "Mango",
+    "image": "Mango.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee671a27a66807cf2bea21"
+    },
+    "name": "Pomegranate - Premium",
+    "image": "Pomegranate.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6717a27a6807cf2bea22"
+    },
+    "name": "Orange - Imported, Regular",
+    "image": "Orange.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee617a27a66807cf2bea23"
+    },
+    "name": "Banana - Robusta/Kele- Robusta",
+    "image": "Banana.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  },
+  {
+    "_id": {
+      "$oid": "5eee717a27a66807cf2bea24"
+    },
+    "name": "Guava/Peru",
+    "image": "Banana.png",
+    "price": "1kg - ₹30",
+    "offer": "20%"
+  }
+]
